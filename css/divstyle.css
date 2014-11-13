@@ -1,0 +1,49 @@
+
+
+.description {
+	background: blue;
+	color: white;
+	font: helvetica;
+	font-size: 100px;
+	padding: 10px 15px;
+	border: 1px solid black;
+	margin: 20px;
+	text-align: center;
+	
+}
+
+
+
+
+.upperdivs {
+
+
+	padding: 10px 15px;
+	border: 1px solid black;
+	margin: 20px;
+	float: right;
+	width: 44%;
+	height: inherit;
+	background:chartreuse;
+	color: pink;
+	
+
+}
+
+
+
+.lowerdivs {
+
+
+	padding: 10px 15px;
+	border: 1px solid black;
+	margin: 20px;
+	float: right;
+	width: 27%;
+	height: inherit;
+	background: black;
+	color: orange;
+	
+
+}
+

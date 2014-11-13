@@ -1,0 +1,29 @@
+table, th, td, tr {
+	border: 10px dotted green;
+}
+
+.red-text{
+	color: red;
+}
+
+td{
+	text-align: center;
+	padding: 25px 20px;
+
+}
+
+.parent {
+	height: 700px;
+}
+
+.inner-divs {
+
+
+	padding: 10px 15px;
+	border: 1px solid black;
+	margin: 20px;
+	float: right;
+	width: 17%;
+	height: inherit;
+}
+

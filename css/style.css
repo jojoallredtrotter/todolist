@@ -1,0 +1,18 @@
+h1 {
+	color:green;
+}
+
+#header {
+	background: gray;
+	color: white;
+	width: 100%;
+}
+
+.orange-text {
+	color:orange;
+}
+
+img {
+	width: 1000px;
+
+}
